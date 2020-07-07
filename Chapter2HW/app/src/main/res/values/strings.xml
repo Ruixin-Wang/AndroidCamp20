@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter2HW</string>
+    <string name="followers">粉丝</string>
+    <string name="likes">赞</string>
+    <string name="at">@我的</string>
+    <string name="comments">评论</string>
+</resources>
