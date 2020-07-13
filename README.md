@@ -20,3 +20,7 @@ HW for Chapter4
 `Discuss.md`	Problem 4
 
 `dou`	HW for Chapter5
+
+### Chapter6
+
+HW for Chapter6
