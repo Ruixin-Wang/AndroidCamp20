@@ -26,3 +26,7 @@ HW for Chapter4
 ### Chapter6
 
 HW for Chapter6
+
+### Chapter6
+
+assignment - Media player
