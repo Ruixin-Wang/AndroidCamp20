@@ -27,6 +27,10 @@ HW for Chapter4
 
 HW for Chapter6
 
-### Chapter6
+### Chapter7
 
 assignment - Media player
+
+### Chapter8
+
+Modified Recorder
